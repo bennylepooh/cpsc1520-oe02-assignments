@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Steve Something",
+        "email": "steve.something@fake.test.com"
+    },
+    {
+        "name": "Gary Else",
+        "email": "gary.else@fake.test.com"
+    },
+    {
+        "name": "Elsa Ellie",
+        "email": "elsa.ellie@fake.test.com"
+    },
+    {
+        "name": "Dan Dingo",
+        "email": "dan.dingo@fake.test.com"
+    },
+    {
+        "name": "Amber Anonymous",
+        "email": "amber.anonymous@fake.test.com"
+    }
+]
